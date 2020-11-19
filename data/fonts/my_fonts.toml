@@ -1,0 +1,16 @@
+# Font style metadata
+name = "valentin"
+
+# Optional Google font URL
+#google_fonts = "Lora:400,700|Montserrat:300,700"
+
+google_fonts = "family=Istok+Web:wght@700&family=Lora&display=swap"
+# Font families
+heading_font = "Istok Web" # titres
+body_font = "Lora" # body
+nav_font = "Istok Web" # menu
+mono_font = "Times" # ? 
+
+# Font size
+font_size = "28"
+font_size_small = "16"

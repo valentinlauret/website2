@@ -1,0 +1,19 @@
+# Theme metadata
+name = "valentin"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#d62828"
+
+# Menu
+menu_primary = "#ffffff"
+menu_text = "#004266"
+menu_text_active = "#d62828"
+menu_title = "#004266"
+
+# Backgrounds
+background = "#ffffff"
+home_section_odd = "#ffffff"
+home_section_even = "#ffffff"
