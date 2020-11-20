@@ -30,11 +30,11 @@ experience:
   date_end: "2018-08-31"
   date_start: "2014-09-01"
   description: |-  
-    Teaching included:
+    Including :
     * Master degree in Biosciences
     * Bachelor degree in Geosciences, Evolution, Paleontology
-    * Specializing in ecological statistics and modelling
-    * One year of working expereience in academic research
+    * Specialization in statistical ecology and modelling
+    * One year of working experience in academic research
   location: Lyon, France
   title: Civil servant student
 - company: University of Montpellier

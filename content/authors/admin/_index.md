@@ -20,7 +20,7 @@ highlight_name: false
 organizations:
 - name: 
   url: 
-role: PhD student using stastical ecology and social sciences
+role: PhD student in statistical ecology and social sciences
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,9 +43,12 @@ title: Valentin Lauret
 #- Principal Investigators
 ---
 
-I'm doing my PhD at the [University of Montpellier](https://www.umontpellier.fr/en/), in the [CEFE - CNRS](https://www.cefe.cnrs.fr/en/) lab. Member of [Human-Animal Interaction group](https://human-animal-interactions.github.io/) and working with [Olivier Gimenez](https://oliviergimenez.github.io/) and MIRACETI.
+I'm a PhD student at the [University of Montpellier](https://www.umontpellier.fr/en/) supervised by [Olivier Gimenez](https://oliviergimenez.github.io/). I'm a member of [Human-Animal Interaction group](https://human-animal-interactions.github.io/) at the Center for Evolutionary and Functional Ecology ([CEFE - CNRS](https://www.cefe.cnrs.fr/en/)).
 
-My research focus on applied biodiversity conservation, with a particular interest in interdisciplinary approaches using statistical ecology and social sciences to work with managers and public policies.
+My research is on applied biodiversity conservation, with a particular interest in interdisciplinary approaches. I use statistical ecology and social sciences and collaborate with wildlife managers and stakeholders to inform public policies.
 
 Please, do not hesitate to [contact me](mailto:valentin.lauret@ens-lyon.fr) for any question or information ! :left_arrow: :postbox:
+
+
+_All the photos are my own_
 

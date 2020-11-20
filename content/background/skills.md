@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Research related skills"
+title = "Academic skills"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -18,19 +18,19 @@ subtitle = ""
 [[feature]]
   icon = "tools"
   icon_pack = "fas"
-  name = "Statistical ecology and social science"
-  description = "Data analysis and ecological modelling (Spatial-Capture Recapture, Occupancy models and SDMs, Integrated pop. models). Leading social science interviews"  
+  name = "Statistical ecology and social sciences"
+  description = "Data analysis and ecological modelling (spatial-capture recapture models, occupancy models and species distribution models, integrated population models). Conducting interviews in social sciences"  
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Computer science"
-  description = "Advanced R programming, Spatial ecology and GIS with R, Markdown & Github, Basics of Python & Matlab"
+  name = "Computer sciences"
+  description = "Advanced R programming, Spatial ecology and GIS with R, reproductible research with Markdown & Github, Bases of Python & Matlab"
   
 [[feature]]
   icon = "heart"
   icon_pack = "fas"
-  name = "Working in multidisciplinary environments"
-  description = "Applied research topics including stakeholders"
+  name = "Multidisciplinary environments"
+  description = "Applied research topics involving stakeholders"
 
 +++

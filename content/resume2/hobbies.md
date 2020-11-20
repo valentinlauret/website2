@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "A bit more"
-subtitle = "Non-related to academic"
+title = "Non-academic skills"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 

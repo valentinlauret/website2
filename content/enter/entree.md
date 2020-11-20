@@ -52,7 +52,7 @@ hero_media = ""
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = "Photo: Quiraing range, Isle of Skye, Scotland "
+  label = "Photo: Quiraing range, Isle of Skye, Scotland"
 +++
 
 
