@@ -5,13 +5,13 @@ name = "valentin"
 light = true
 
 # Primary
-primary = "#d62828"
+primary = "#457B9D" #"#E63946"
 
 # Menu
 menu_primary = "#ffffff"
-menu_text = "#004266"
-menu_text_active = "#d62828"
-menu_title = "#004266"
+menu_text = "#1D3557"
+menu_text_active = "#E63946"
+menu_title = "#1D3557"
 
 # Backgrounds
 background = "#ffffff"

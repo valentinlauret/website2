@@ -20,7 +20,7 @@ highlight_name: false
 organizations:
 - name: 
   url: 
-role: Postdoc in statistical ecology and social sciences
+role: Statistical ecology & social sciences
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,11 +43,13 @@ title: Valentin Lauret
 #- Principal Investigators
 ---
 
-I'm a Postdoc working for integrating spatial data into population modeling at the Center for Evolutionary and Functional Ecology ([CEFE - CNRS](https://www.cefe.cnrs.fr/en/)) supervised by [Aurélien Besnard](https://www.cefe.cnrs.fr/fr/actus/44-french/recherche/bc/bev/291-aurelien-besnard) as a member of [Human-Animal Interaction group](https://human-animal-interactions.github.io/). I'm onboard the Migralion project, an ambituous research program funded by the [French Biodiversity Office](https://ofb.gouv.fr/en) aiming at studying birds & bats migration in the Gulf of Lion (Northwestern Mediterranean Sea). I'm in charge of developing population models integrating telemetry, count, and ringing data.
+I'm a postdoc at the Center for Evolutionary and Functional Ecology ([CEFE - CNRS](https://www.cefe.cnrs.fr/en/)) working with [Aurélien Besnard](https://www.cefe.cnrs.fr/fr/actus/44-french/recherche/bc/bev/291-aurelien-besnard) as a member of [Human-Animal Interaction group](https://human-animal-interactions.github.io/). I'm onboard the [Migralion](https://www.france-energies-marines.org/en/projects/migralion/) project with [France Energies Marines](https://www.france-energies-marines.org/en/), an ambituous research program funded by the [French Biodiversity Office](https://ofb.gouv.fr/en) aiming at studying birds migration in the Gulf of Lion (Northwestern Mediterranean Sea). I'm mainly in charge of developing integrated models combining telemetry, counts, and radar data.
 
 Overall, my research focuses on applied biodiversity conservation, with a particular interest in interdisciplinary approaches using statistical ecology and social sciences to work with wildlife managers and stakeholders to inform public policies.
 
-Please, do not hesitate to [contact me](mailto:valentin.lauret@ens-lyon.fr) for any question or information ! :left_arrow: :postbox:
+{{< icon name="arrow-alt-circle-right" pack="fas" >}} You can download my [CV](/pubs/CV.pdf)
+
+Please, do not hesitate to [contact me](mailto:valentin.lauret@ens-lyon.fr) for any question or information ! :postbox:
 
 
 _All photos credits are mine_

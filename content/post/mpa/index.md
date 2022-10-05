@@ -34,6 +34,6 @@ My work will have allowed i) to propose statistical tools relevant to the curren
 
 <justify>
 
-While many MPA routinely collect data on bottlenose dolphins, the diversity and heterogeneity in monitoring protocols (e.g., aerial line-transects, on-board photo-identification, opportunistic detection) make data integration challenging. In my PhD, we developed integrated occupancy models to estimate species distribution [in this paper](Ecology.pdf). Besides, we combined distance sampling and spatial capture-recapture models to estimate population abundance and density [in this paper](preprinAbundance.pdf). 
+While many MPA routinely collect data on bottlenose dolphins, the diversity and heterogeneity in monitoring protocols (e.g., aerial line-transects, on-board photo-identification, opportunistic detection) make data integration challenging. In my PhD, we developed integrated occupancy models to estimate species distribution [in this paper](/pubs/ecology2021.pdf). Besides, we combined distance sampling and spatial capture-recapture models to estimate population abundance and density [in this paper](/pubs/ancon2022.pdf). 
 
 

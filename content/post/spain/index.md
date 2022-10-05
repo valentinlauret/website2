@@ -17,4 +17,4 @@ During Autumn 2017, I did an internship with Beatriz Arroyo, François Mougeot, 
 
 We used Q-methodology, a quali-quantitative social science method, to describe shared opinions about Common vole (_Microtus arvalis_) outbreaks in Northern Spain. During this project, I conducted social interviews with farmers, hunters, conservationists, and members of the local government to idenitfy the coexisting viewpoints about this intense conservation conflict.   
 
-More on this [article in AMBIO journal](https://link.springer.com/article/10.1007/s13280-019-01256-0). To have more details, do not hesitate to contact me directly. 
+More on [this article](/pubs/rodent2019.pdf). To have more details, do not hesitate to contact me directly. 

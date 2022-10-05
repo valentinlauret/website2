@@ -19,13 +19,13 @@ subtitle = ""
   icon = "tools"
   icon_pack = "fas"
   name = "Statistical ecology and social sciences"
-  description = "Data analysis and ecological modelling (spatial-capture recapture models, occupancy models and species distribution models, integrated population models). Conducting interviews in social sciences"  
+  description = "Data analysis and ecological modelling (spatial-capture recapture models, distance sampling, occupancy models and species distribution models), data integration. Conducting interviews in social sciences"  
 
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Computer sciences"
-  description = "Advanced R programming, Spatial ecology and GIS with R, reproductible research with Markdown & Github, Bases of Python & Matlab"
+  description = "Advanced R programming, Spatial ecology and GIS with R, reproductible research with Markdown/Quarto & Github, Bases of Python & Matlab, MCMC methods with NIMBLE (and JAGS)"
   
 [[feature]]
   icon = "heart"
