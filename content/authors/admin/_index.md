@@ -43,13 +43,13 @@ title: Valentin Lauret
 #- Principal Investigators
 ---
 
-I'm a postdoc at the Center for Evolutionary and Functional Ecology ([CEFE - CNRS](https://www.cefe.cnrs.fr/en/)) working with [Aurélien Besnard](https://www.cefe.cnrs.fr/fr/actus/44-french/recherche/bc/bev/291-aurelien-besnard) as a member of [Human-Animal Interaction group](https://human-animal-interactions.github.io/). I'm onboard the [Migralion](https://www.france-energies-marines.org/en/projects/migralion/) project with [France Energies Marines](https://www.france-energies-marines.org/en/), an ambituous research program funded by the [French Biodiversity Office](https://ofb.gouv.fr/en) aiming at studying birds migration in the Gulf of Lion (Northwestern Mediterranean Sea). I'm mainly in charge of developing integrated models combining telemetry, counts, and radar data.
+I'm a *Juan de la Cierva 2022* postdoc at the Institute for Game and Wildlife Research ([IREC - CSIC - UCLM](https://www.irec.es/en/)) working with [Beatriz Arroyo](https://irec.es/en/commitment/detail/brook-lopez-beatriz/) and [Miguel Delibes-Mateos](https://mdelibesmateos.wixsite.com/mdelibesmateos). I'm ongoing various projects that aimed at investigating the human dimensions of social conflicts associated with wildlife. In particular, I'm interested in the construction of ecological knowledge and its legitimacy for biodiversity decision-making, adopting a reflexive posture about the quantification of biodiversity through statistical models.
 
 Overall, my research focuses on applied biodiversity conservation, with a particular interest in interdisciplinary approaches using statistical ecology and social sciences to work with wildlife managers and stakeholders to inform public policies.
 
 {{< icon name="arrow-alt-circle-right" pack="fas" >}} You can download my [CV](/pubs/CV.pdf)
 
-Please, do not hesitate to [contact me](mailto:valentin.lauret@ens-lyon.fr) for any question or information ! :postbox:
+Please, do not hesitate to [contact me](mailto:valentin.lauret@uclm.es) for any question or information ! :postbox:
 
 
 _All photos credits are mine_

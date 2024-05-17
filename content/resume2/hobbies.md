@@ -19,7 +19,7 @@ subtitle = ""
   icon = "hiking"
   icon_pack = "fas"
   name = "Recreational outdoor"
-  description = "Trekking trip, Scuba-diving, Wildlife watching & photography, Love and played Football & Rugby, Recurrent Scotland visitor :scotland:"  
+  description = "Trekking trip, Scuba-diving, Wildlife watching, Love and played Football & Rugby, Recurrent Scotland visitor :scotland:"  
 
 [[feature]]
   icon = "beer"
